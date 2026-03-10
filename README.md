@@ -6,7 +6,7 @@
 🚀 Looking for my first opportunity as a developer
 
 ## About me
-I'm currently studying Analysis and Systems Development and building projects to improve my programming skills.
+I'm currently studying Systems Analysis and Development and building projects to improve my programming skills.
 
 ## 🚀 Tech Stack
 
