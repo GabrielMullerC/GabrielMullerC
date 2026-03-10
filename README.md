@@ -1,3 +1,29 @@
+# Gabriel Müller
+
+💻 Software Developer in progress  
+🎓 ADS Student  
+📍 Brazil  
+
+## About me
+I'm currently studying Analysis and Systems Development and building projects to improve my programming skills.
+
+Technologies I'm studying:
+- JavaScript
+- TypeScript
+- React
+- Python
+- C
+
+## Goals
+- Improve problem solving skills
+- Build real world projects
+- Start working as a developer
+
+## Contact
+LinkedIn
+Email
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
